@@ -1,6 +1,6 @@
 {
   "name": "@vue-materials/uxi-reg-block",
-  "version": "2.0.3",
+  "version": "2.0.4-0",
   "description": "login block",
   "author": "tomtan",
   "files": [
@@ -9,7 +9,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alibaba/ice.git"
+    "url": "git+https://github.com/ssttm169/test-module.git"
   },
   "license": "MIT",
   "keywords": [
